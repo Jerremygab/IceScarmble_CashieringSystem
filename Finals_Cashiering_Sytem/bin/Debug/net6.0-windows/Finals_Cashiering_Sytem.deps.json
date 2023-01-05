@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Finals_Cashiering_Sytem/1.0.0": {
+        "runtime": {
+          "Finals_Cashiering_Sytem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Finals_Cashiering_Sytem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
